@@ -1,4 +1,4 @@
-# Writeup EKD, UKF
+# Writeup Estimation
 
 ## Step 1 Sensor Noise - Calculation of Standard Deviation
 
@@ -10,7 +10,7 @@ Firing up the simulator on scenario 6 show a pass for both.
 
 ## Step 2 Attitude Estimation
 
-Task was to improve attitude errors. Sensor for this time was IMU only. Noise levels have been set down to 0.
+The task was to improve attitude errors. Sensor for this time was IMU only. Noise levels have been set down to 0.
 
 It was required to implement a better rate gyro attitude integration scheme in `QuadEstimatorEKF.cpp` at function `UpdateFromIMU()` to reduce the errors in the euler angles (attitude).
 
