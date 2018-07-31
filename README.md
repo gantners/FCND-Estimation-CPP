@@ -49,8 +49,6 @@ Tuned `QPosXYStd = .03`and `QVelXYStd = .11`:
 
 ![Step 3 matrix](images/step3_scenario9_tune.PNG)
 
-![Step 3 pass](images/step3.PNG)
-
 ## Step 4 Magnetometer Update
 
 ### Scenario 10:
