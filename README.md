@@ -81,3 +81,6 @@ The quad followed the trajectory, slow, but stable.
 
 Last but not least the very own controller comes into the picture.
 
+Other than expected it ran right away successful, no need to tune. Great!
+
+[Step 6 pass](images/step6_pass.PNG)
